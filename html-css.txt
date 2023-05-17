@@ -1,0 +1,44 @@
+!DOCTYPE html>
+<html>
+<head>
+<title> resume TIC </title>
+<style>
+h2 {
+color:blue
+
+}
+</style>
+</head>
+
+<body> 
+
+<h2> les participant </h2>
+  <ol>
+      <li> khalef douaa section 1 groupe 1 mat: 222231468911 chapitre 4 </li>
+      <li>  section 1 groupe 1 mat:  </li>
+      <li>  section 1 groupe 1 mat:  </li>
+      <li>  section 1 groupe 3 mat: </li>
+      <li>  section 1 groupe 1 mat:  </li>
+      <li>  section 1 groupe 1 mat: </li>
+   
+    </ol>
+ <h2> les chapitre </h2>
+   <h4> chapitre 1: introduction</h4>
+   <h4> chapitre 2:les reseaux imformatique </h4> 
+   <h4> chapitre 3:le model osi </h4>
+   <h4> chapitre 4: internet et le web </h4>
+   <h4> chapitre 5: systeme de gestion de version </h4>
+   <h3> introduction :</h3>
+  <p> </P>
+  <h3>les reseaux imformatique : </h3>
+  <p> </P>
+  <h3> le model osi : </h3>
+  <p> </P>
+  <h3> internet et le web : </h3>
+  <p> </P>
+  <h3> systeme de gestion de version :</h3>
+  <p> </P>
+  
+</body>
+</html>
+Vous avez envoyé
